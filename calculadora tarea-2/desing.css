@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+}
+.center {
+  display: grid;
+  place-items: center;
+}
+.edt {
+  border-radius: 5%;
+  background: #212121;
+  color: #fff;
+}
